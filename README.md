@@ -20,7 +20,7 @@ A real-time Gold (XAU/USD) price tracker using an ESP32-C3 and a 0.96" I2C OLED 
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/petanquex/ESP32-Gold-Price-Tracker.git
    ```
 
 2. **Add your Wi-Fi Credentials:**
